@@ -1,1 +1,1 @@
-# Async-and-Sync-pthreads
+Program for asynchronous and synchronized pthreads. Makefile included.
